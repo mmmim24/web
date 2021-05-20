@@ -5,7 +5,9 @@ A self procalimed procastinator trying to be a drop of water in the ocean
   
   
 Clone this repository  
-```git clone https://github.com/mmmim24/web.git```
+```git
+git clone https://github.com/mmmim24/web.git
+```
   
   
   
