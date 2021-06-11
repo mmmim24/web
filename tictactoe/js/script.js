@@ -100,16 +100,18 @@ const handleReset = (e) => {
 
 const handleCellClick = (e) => {
     const location = e.target.classList[1];
-    // console.log("location",location);
-    if(xIsNext&&gameIsLive)  {
-        if(e.target.classList[2]==='o') return;
-        e.target.classList.add('x');
-        checkStatus();
-    }
-    else if(gameIsLive){
-        if(e.target.classList[2]==='x') return;
-        e.target.classList.add('o');
-        checkStatus();
+    // console.log(xIsNext);
+    if(gameIsLive){
+        if(xIsNext)  {
+            if(e.target.classList[2]==='o'||e.target.classList[2]==='x') return;
+            e.target.classList.add('x');
+            checkStatus();
+        }
+        else{
+            if(e.target.classList[2]==='x'||e.target.classList[2]==='o') return;
+            e.target.classList.add('o');
+            checkStatus();
+        }
     }
 };
 
