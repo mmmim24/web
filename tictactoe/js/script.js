@@ -76,7 +76,7 @@ const checkStatus = () => {
     else{
         xIsNext = !xIsNext;
         if(xIsNext){
-            statusDiv.innerHTML = 'x is next';
+            statusDiv.innerHTML = 'x is Next';
         }
         else{
             statusDiv.innerHTML = 'o is Next';
