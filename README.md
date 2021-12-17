@@ -1,7 +1,7 @@
 # Some basic web projects made for practice
 ## Tech companies in Bangladesh
-[Visit](https://www.techcombd.web.app)  
+[Visit](https://techcombd.web.app)  
   
 ## Tic Tac Toe
-[Visit](https://www.tictactoe-36222.web.app)
+[Visit](https://tictactoe-36222.web.app)
 
