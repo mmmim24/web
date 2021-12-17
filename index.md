@@ -13,7 +13,7 @@ git clone https://github.com/mmmim24/web.git
   
 
 ### Tech companies in Bangladesh
-[Visit](https://mmmim24.github.io/web/tcb)  
+[Visit](https://techcombd.firebaseapp.com)  
   
 ### Tic Tac Toe
-[Visit](https://mmmim24.github.io/web/tictactoe)
+[Visit](https://tictactoe-36222.firebaseapp.com)
